@@ -1,0 +1,11 @@
+{
+    "name": "lab/bacheca",
+    "description": "Bacheca Richieste Assistenza - Clean Architecture",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "app\\": "src/"
+        }
+    },
+    "require": {}
+}
